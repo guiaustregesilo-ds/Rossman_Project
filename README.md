@@ -1,2 +1,3 @@
-# comunidade_ds
+# Rossman Project
+
 Data Science projects on Comunidade DS
